@@ -17,3 +17,7 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
+- Rose Gabriely
+- Rose Gabriely 2
+- Rose Gabriely 3
+- Rose Gabriely 4
